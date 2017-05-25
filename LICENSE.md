@@ -14,4 +14,4 @@ The React Life Calendar uses the following libraries and frameworks, which have 
 - [moment](https://github.com/moment/moment) [MIT]
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) [MIT]
 - [react-scrollable-anchor](https://github.com/gabergg/react-scrollable-anchor) [MIT]
-- [Font Awesome](https://github.com/facebook/react) [MIT]
+- [Font Awesome](http://fontawesome.io/license/) [MIT]
